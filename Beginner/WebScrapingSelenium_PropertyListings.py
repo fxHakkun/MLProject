@@ -1,3 +1,11 @@
+'''
+18/2/2025 Finishing learning some concepts of webscraping in order to get data. Data are collected from a website with list instead of prepared tabular data.
+        Selenium webdriver are replaced with undetected_chromedriver for easy scraping on multiple pages in order to bypass the website security human verification.
+        Data gathered are allowed in https://www.propertyguru.com.my/bm/rumah-banglo-dijual/robots.txt . No harm were made throughout the learning process lol
+
+        Let's go to process the data for machine learning next! by : FxHakkun
+'''
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
